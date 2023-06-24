@@ -1,2 +1,2 @@
 # web
-Estudo de front end. CSS e HTML
+Estudo básico de front end. CSS, HTML, Javascript
